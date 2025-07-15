@@ -4,22 +4,21 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview"
-  }
-  ,
+  "dev": "vite",
+  "build": "vite build",
+  "preview": "vite preview"
+},
   "dependencies": {
-    "@tanstack/react-query": "^5.74.4",
-    "axios": "^1.8.4",
-    "campusconnect": "file:..",
-    "date-fns": "^4.1.0",
-    "lucide-react": "^0.503.0",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0",
-    "react-hot-toast": "^2.5.2",
-    "react-router-dom": "^7.5.1"
-  },
+  "@tanstack/react-query": "^5.74.4",
+  "axios": "^1.8.4",
+  "campusconnect": "file:..",
+  "lucide-react": "^0.503.0",
+  "react": "^19.0.0",
+  "react-dom": "^19.0.0",
+  "react-hot-toast": "^2.5.2",
+  "react-router-dom": "^7.5.1"
+}
+,
   "devDependencies": {
     "@eslint/js": "^9.22.0",
     "@types/react": "^19.0.10",
